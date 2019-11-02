@@ -1,0 +1,9 @@
+{
+    "name": "acme/example-project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    },
+    "require": {}
+}
